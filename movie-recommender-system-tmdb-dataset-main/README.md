@@ -39,7 +39,7 @@ TMDb API – For fetching movie posters
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/vijethh-ai1/movie-recommender-system.git
 cd movie-recommender-system
 
 2️⃣ Install dependencies
@@ -51,11 +51,7 @@ If requirements.txt is missing, install manually:
 pip install streamlit requests
 
 3️⃣ Run the Streamlit app
-streamlit run 83acbbaf-16a0-4d37-940b-6e1d1a46d8db.py
-
-4️⃣ Open in Browser
-
-Go to: http://localhost:8501/
+streamlit run app.py
 
 🖼️ Demo
 
